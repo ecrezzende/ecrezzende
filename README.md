@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou ecrezzende</h1>
+<h1 align="center">Olá 👋 Eu sou Eduardo C Rezende</h1>
 
 <p align="center">
   🎓 Estudante de Programação <br>
